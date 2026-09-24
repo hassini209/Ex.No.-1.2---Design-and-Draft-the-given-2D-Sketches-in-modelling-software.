@@ -36,6 +36,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ <img width="1526" height="862" alt="WhatsApp Image 2026-09-24 at 17 49 01" src="https://github.com/user-attachments/assets/081ab81b-300c-4ebf-ab89-0d53f3480c16" />
+ <img width="1498" height="1050" alt="image" src="https://github.com/user-attachments/assets/4878aaba-6ca6-4141-976e-4965e9ea8d56" />
+
+
  
  
  ## RESULT
